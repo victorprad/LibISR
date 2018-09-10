@@ -7,7 +7,7 @@ This is the software bundle "LibISR",  the current version is maintained by:
   
 For more information about LibISR please visit the project website http://www.robots.ox.ac.uk/~victor/libisr.
 
-Other related projects can be found in the Oxford Active Vision Library http://www.oxvisionlib.org.
+Other related projects can be found on the AVLCode website http://www.avlcode.org.
 
 ## Requirements:
 
